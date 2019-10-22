@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>DisplayProductName</key>
-	<string>DELL U3818DW (DisplayPort, NoTV override)</string>
+	<string>DELL U3818DW (HDMI, NoTV override)</string>
 	<key>DisplayVendorID</key>
 	<integer>4268</integer>
 	<key>DisplayProductID</key>
-	<integer>41204</integer>
+	<integer>41202</integer>
 	<key>DisplayIsTV</key>
 	<false/>
 </dict>
