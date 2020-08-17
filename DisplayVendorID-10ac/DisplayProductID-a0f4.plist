@@ -2,13 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>DisplayProductName</key>
-	<string>DELL U3818DW (DisplayPort, NoTV override)</string>
-	<key>DisplayVendorID</key>
-	<integer>4268</integer>
-	<key>DisplayProductID</key>
-	<integer>41204</integer>
-	<key>DisplayIsTV</key>
-	<false/>
+    <key>DisplayProductName</key>
+    <string>DELL U3818DW (HiDPI, DisplayPort)</string>
+    <key>DisplayVendorID</key>
+    <integer>4268</integer>
+    <key>DisplayProductID</key>
+    <integer>41204</integer>
+    <key>DisplayIsTV</key>
+    <false/>
+    <key>scale-resolutions</key>
+    <array>
+        <data>AAAMAAAABQAAAAABACAAAA==</data>
+        <data>AAAYAAAACgA=</data>
+    </array>
 </dict>
 </plist>
