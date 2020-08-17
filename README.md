@@ -13,7 +13,7 @@ Goals:
 
 1. Create overrides (`DisplayVendorID-*/DisplayProductID-*.plist`) or use the existing ones
 2. Boot into recovery
-3. Mount `Macintosh HD`
+3. Mount `Macintosh HD` and its `Data` partition (as used in macOS 10.15 Catalina)
 4. Open Terminal and run `./install.sh` from the project folder (`/Volumes/Macintosh HD/path/to/project`)
 5. Reboot
 
@@ -40,3 +40,4 @@ ioreg -lw0 | grep "IODisplayEDID" \
 
 - [Display Override PropertyList File Parser and Generator with HiDPI support](https://comsysto.github.io/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions/)
 - [edid-decode](https://git.linuxtv.org/edid-decode.git/)
+- [A Guide To Creating Scaled Resolutions in MacOS](https://github.com/bbhardin/A-Guide-to-MacOS-Scaled-Resolutions)
