@@ -12,7 +12,7 @@ Goals:
 ## Usage
 
 1. Create overrides (`DisplayVendorID-*/DisplayProductID-*.plist`) or use the existing ones
-2. Open Terminal and run `./install.sh` from the project folder
+2. Open Terminal and run `sudo install.sh` from the project folder
 3. Reboot
 
 After rebooting, the "Display" system preferences should show an updated display name in the title bar and if scaled resolutions are shown (option-click on "Scaled"): additional resolutions are available. 
