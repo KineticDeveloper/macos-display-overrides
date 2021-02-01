@@ -12,10 +12,8 @@ Goals:
 ## Usage
 
 1. Create overrides (`DisplayVendorID-*/DisplayProductID-*.plist`) or use the existing ones
-2. Boot into recovery
-3. Mount `Macintosh HD` and its `Data` partition (as used in macOS 10.15 Catalina)
-4. Open Terminal and run `./install.sh` from the project folder (`/Volumes/Macintosh HD/path/to/project`)
-5. Reboot
+2. Open Terminal and run `./install.sh` from the project folder
+3. Reboot
 
 ## Notes
 
