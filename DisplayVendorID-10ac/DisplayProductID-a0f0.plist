@@ -9,13 +9,17 @@
     <key>DisplayProductID</key>
     <integer>41200</integer>
     <key>DisplayIsTV</key>
-    <false/>
+    <false />
     <key>scale-resolutions</key>
     <array>
-        <data>AAAMAAAABQAAAAABACAAAA==</data>
-        <data>AAAYAAAACgA=</data>
-        <data>AAALQAAABLAAAAABACAAAA==</data>
-        <data>AAAWgAAACWA=</data>
+        <data>AAAMgAAABTYAAAABACAAAA==</data> <!-- 3200x1334 (HiDPI) -->
+        <data>AAAMgAAABTY=</data>             <!-- 3200x1334^2 --> 
+        <data>AAAMAAAABQAAAAABACAAAA==</data> <!-- 3072x1280 (HiDPI) --> 
+        <data>AAAYAAAACgA=</data>             <!-- 3072x1280^2 --> 
+        <data>AAALQAAABLAAAAABACAAAA==</data> <!-- 2880x1200 (HiDPI) --> 
+        <data>AAAWgAAACWA=</data>             <!-- 2880x1200^2 --> 
     </array>
+    <key>target-default-ppmm</key>
+    <real>6.76</real>
 </dict>
 </plist>
